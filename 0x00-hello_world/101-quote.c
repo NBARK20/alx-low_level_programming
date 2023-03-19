@@ -1,11 +1,5 @@
-#!/bin/bash
-gcc -S -masm=intel $CFILE
-
-101-quote.c
-
 #include <stdio.h>
 #include <unistd.h>
-
 /**
 * main - Entry point
 *
