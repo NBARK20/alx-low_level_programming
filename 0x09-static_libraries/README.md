@@ -1,1 +1,1 @@
-Project static libraries task
+Static libraries progect 
